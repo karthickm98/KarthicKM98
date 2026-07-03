@@ -1,5 +1,5 @@
 > ### Hi there 👋
-- Hi guys, I'm karthick `(@KarthickM98)`, **MERN** stack Developer.<img src="https://reactnative.dev/img/header_logo.svg" align="right" >
+- Hi guys, I'm karthick `(@Karthick)`, **MERN** stack Developer.<img src="https://reactnative.dev/img/header_logo.svg" align="right" >
 
 - 🔭 I’m currently working on react Native application
 - 🌱 I’m currently learning MERN Stack Web Development
